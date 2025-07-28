@@ -10,4 +10,4 @@ function combinarArrays(...arrays) {
   return [...arrays[0], ...arrays[1], ...arrays[2]];
 }
 
-const tigelaAcai = combinarArrays(acais, frutas, toppings)
+const tigelaAcai = combinarArrays(acais, frutas, toppings);
