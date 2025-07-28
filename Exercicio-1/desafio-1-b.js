@@ -11,3 +11,5 @@ function combinarArrays(...arrays) {
 }
 
 const tigelaAcai = combinarArrays(acais, frutas, toppings);
+
+console.log(tigelaAcai);
